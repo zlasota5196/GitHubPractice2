@@ -13,6 +13,7 @@
 		A20F530B27FE1B2A00EE3613 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A20F530927FE1B2A00EE3613 /* Main.storyboard */; };
 		A20F530D27FE1B2C00EE3613 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A20F530C27FE1B2C00EE3613 /* Assets.xcassets */; };
 		A20F531027FE1B2C00EE3613 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A20F530E27FE1B2C00EE3613 /* LaunchScreen.storyboard */; };
+		A20F531827FE1CEF00EE3613 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20F531727FE1CEF00EE3613 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A20F530C27FE1B2C00EE3613 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A20F530F27FE1B2C00EE3613 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A20F531127FE1B2C00EE3613 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A20F531727FE1CEF00EE3613 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				A20F530527FE1B2A00EE3613 /* SceneDelegate.swift */,
 				A20F530727FE1B2A00EE3613 /* ViewController.swift */,
 				A20F530927FE1B2A00EE3613 /* Main.storyboard */,
+				A20F531727FE1CEF00EE3613 /* SecondViewController.swift */,
 				A20F530C27FE1B2C00EE3613 /* Assets.xcassets */,
 				A20F530E27FE1B2C00EE3613 /* LaunchScreen.storyboard */,
 				A20F531127FE1B2C00EE3613 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A20F531827FE1CEF00EE3613 /* SecondViewController.swift in Sources */,
 				A20F530827FE1B2A00EE3613 /* ViewController.swift in Sources */,
 				A20F530427FE1B2A00EE3613 /* AppDelegate.swift in Sources */,
 				A20F530627FE1B2A00EE3613 /* SceneDelegate.swift in Sources */,
